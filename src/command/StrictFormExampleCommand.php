@@ -6,7 +6,6 @@ use oirancage\strictform\component\Button;
 use oirancage\strictform\component\Dropdown;
 use oirancage\strictform\component\exception\InvalidFormResponseException;
 use oirancage\strictform\component\Input;
-use oirancage\strictform\component\Label;
 use oirancage\strictform\component\Slider;
 use oirancage\strictform\component\StepSlider;
 use oirancage\strictform\component\StringEnumOption;
