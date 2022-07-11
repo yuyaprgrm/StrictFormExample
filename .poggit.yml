@@ -6,6 +6,6 @@ projects:
   StrictFormExample:
     path: ""
     libs: 
-      src: "OiranCage/StrictForm/StrictForm"
-      version: ^1.0.0
+      - src: "OiranCage/StrictForm/StrictForm"
+        version: ^1.0.0
 ...
