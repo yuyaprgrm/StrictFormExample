@@ -1,0 +1,25 @@
+{
+	"name": "oirancage/strict-form-example",
+	"authors": [
+		{
+			"name": "famima65536",
+			"email": "famima65536@gmail.com"
+		}
+	],
+	"license": "mit",
+	"repositories": [
+		{
+			"type": "github",
+			"url": "https://github.com/oirancage/StrictForm"
+		}
+	],
+	"require-dev": {
+		"pocketmine/pocketmine-mp": "4.5.2",
+		"oirancage/strict-form": "dev-main"
+	},
+	"autoload": {
+		"psr-4": {
+			"\\oirancage\\strictformexample\\": "src"
+		}
+	}
+}
