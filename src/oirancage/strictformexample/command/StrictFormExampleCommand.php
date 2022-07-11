@@ -87,7 +87,7 @@ class StrictFormExampleCommand extends Command{
 				$form->onSuccess(function(CustomFormResponse $response) : void{
 					$from = $response->getFrom();
 					$name   = $response->getInputValue("name");
-					$age    = $response->getSliderValue("age");
+					$age    = (int) $response->getSliderValue("age");
 					$gender = $response->getDropdownValue("gender");
 					$level  = $response->getStepSliderValue("skill-level");
 					$toggle = $response->getToggleValue("some-toggle");
