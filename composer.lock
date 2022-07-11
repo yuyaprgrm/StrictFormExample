@@ -237,12 +237,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/OiranCage/StrictForm.git",
-                "reference": "e3cc3a98e5131524af539a44585b71ad04a729bf"
+                "reference": "7dbcfdde2a72006aabe6ce1ee12f1c05ab5fba38"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/OiranCage/StrictForm/zipball/e3cc3a98e5131524af539a44585b71ad04a729bf",
-                "reference": "e3cc3a98e5131524af539a44585b71ad04a729bf",
+                "url": "https://api.github.com/repos/OiranCage/StrictForm/zipball/7dbcfdde2a72006aabe6ce1ee12f1c05ab5fba38",
+                "reference": "7dbcfdde2a72006aabe6ce1ee12f1c05ab5fba38",
                 "shasum": ""
             },
             "require-dev": {
@@ -269,7 +269,7 @@
                 "source": "https://github.com/OiranCage/StrictForm/tree/main",
                 "issues": "https://github.com/OiranCage/StrictForm/issues"
             },
-            "time": "2022-07-11T07:21:59+00:00"
+            "time": "2022-07-11T07:34:59+00:00"
         },
         {
             "name": "pocketmine/bedrock-data",
