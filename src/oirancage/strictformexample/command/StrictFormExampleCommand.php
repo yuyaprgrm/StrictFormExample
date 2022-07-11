@@ -18,9 +18,7 @@ use oirancage\strictform\response\SimpleFormResponse;
 use oirancage\strictform\SimpleForm;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
-use pocketmine\command\utils\CommandException;
 use pocketmine\command\utils\InvalidCommandSyntaxException;
-use pocketmine\lang\Translatable;
 use pocketmine\player\Player;
 
 class StrictFormExampleCommand extends Command{

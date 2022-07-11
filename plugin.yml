@@ -1,5 +1,4 @@
 name: StrictFormExample
 main: oirancage\strictformexample\Main
-src-namespace-prefix: oirancage\strictformexample
 version: 1.0.0
 api: 4.0.0
